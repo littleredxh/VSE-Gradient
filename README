@@ -1,1 +1,3 @@
-The code is located at this repo: https://github.com/microsoft/VSE_Gradient.git
+This is official repo for the WACV2023 paper "Dissecting Deep Metric Learning Losses for Image-Text Retrieval".
+
+Due to policy issue, the code is located at here: https://github.com/microsoft/VSE_Gradient.git
